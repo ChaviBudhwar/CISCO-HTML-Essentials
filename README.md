@@ -10,8 +10,8 @@ This course covers the basics of HTML, which is essential for creating web pages
 - **HTML**: Learn the building blocks of web content and structure, including elements, attributes, forms, and multimedia.
 
 ## 📝 Projects Completed So Far:
-- **Indoor Plants**: A simple webpage showcasing indoor plants, including details about each plant (name, description, price) and images. This project focuses on using basic HTML elements like headings, paragraphs, images, and meta tags.
-- **Taste of Travel - Thai Cuisine**: A webpage highlighting a Thai recipe, Tom Yum Goong. This project includes detailed descriptions, a list of ingredients, a step-by-step preparation guide, cooking tips, and a recipe table. It demonstrates the use of headings, paragraphs, blockquotes, lists, tables, and images.
+- **Indoor Plants**: This project focuses on using basic HTML elements like headings, paragraphs, images, and meta tags.
+- **Taste of Travel - Thai Cuisine**: This project demonstrates the use of headings, paragraphs, blockquotes, lists, tables, and images.
 
   [View Project 2: Taste of Travel](./project-2)
 
