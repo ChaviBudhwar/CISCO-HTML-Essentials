@@ -13,7 +13,5 @@ This course covers the basics of HTML, which is essential for creating web pages
 - **Indoor Plants**: This project focuses on using basic HTML elements like headings, paragraphs, images, and meta tags.
 - **Taste of Travel - Thai Cuisine**: This project demonstrates the use of headings, paragraphs, blockquotes, lists, tables, and images.
 
-  [View Project 2: Taste of Travel](./project-2)
-
 ## 🔗 Relevant Links:
 - [Cisco HTML Essentials Course](https://www.netacad.com/courses/html-essentials?courseLang=en-US)
