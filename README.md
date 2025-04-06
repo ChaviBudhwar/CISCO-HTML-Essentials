@@ -12,7 +12,8 @@ This course covers the basics of HTML, which is essential for creating web pages
 ## 📝 Projects Completed So Far:
 - **Indoor Plants**: This project focuses on using basic HTML elements like headings, paragraphs, images, and meta tags.
 - **Taste of Travel - Thai Cuisine**: This project demonstrates the use of headings, paragraphs, blockquotes, lists, tables, and images.
-- **Harmony Heights Band Page**: This project showcases the use of multimedia tags, forms, and anchor elements.  
+- **Harmony Heights - Feel the Music**: This project showcases the use of multimedia tags, forms, and anchor elements.
+- **Sunnydale School**:This project introduces internal CSS styling. It demonstrates the use of `id`, `class`, inline styles, semantic tags, and attributes like `title` and `data-*`.    
  
 
 ## 🔗 Relevant Links:
