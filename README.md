@@ -15,6 +15,7 @@ This course covers the basics of HTML, which is essential for creating web pages
 - **Harmony Heights - Feel the Music**: This project showcases the use of multimedia tags, forms, and anchor elements.
 - **Sunnydale School**:This project focuses on improving the presentation of your web pages using advanced HTML styling techniques, global attributes, and event handling.
 - **Harbor Light Community Center Website**: This project focuses on semantic markup, accessibility, and best practices in HTML.
+- **World Discovery Web Page**: This project covers advanced HTML topics, such as favicons, image maps, APIs, and graphics.
 
 ## 🔗 Relevant Links:
 - [Cisco HTML Essentials Course](https://www.netacad.com/courses/html-essentials?courseLang=en-US)
