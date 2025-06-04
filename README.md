@@ -1,12 +1,12 @@
 # Cisco HTML Essentials Projects
 
-This repository contains my solutions of each module's project from the **Cisco HTML Essentials** course. Through this course, I’ve learned how to use **HTML** to build structured and accessible web pages.
+This repository contains my solution of each module's project from the **Cisco HTML Essentials** course. Through this course, I’ve learned how to use **HTML** to build structured and accessible web pages.
 
 ## 📂 What’s Inside:
 - Projects demonstrating the core skills learned in the HTML Essentials course.
 
 ## 📚 About the Course:
-This course covers the basics of HTML, which is essential for creating web pages:
+This course covers the basics of HTML, which is essential for creating web pages.
 
 ## 📝 Projects Completed So Far:
 - **Indoor Plants**: This project focuses on using basic HTML elements like headings, paragraphs, images, and meta tags.
